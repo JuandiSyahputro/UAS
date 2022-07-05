@@ -12,7 +12,7 @@ class NewsScreen extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'Juandi 181011450494',
+          '181011450494_Juandi',
           style: TextStyle(color: Colors.lightBlue),
         ),
       ),
